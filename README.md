@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nathanmarkley
+- 👀 I’m interested in 
+- 🌱 I’m currently: learning Python and Javascript
+- 📫 How to reach me: You can contact me on my website at https://nathanmarkley.net. 
+- ⚡ Fun fact: I am a Podcaster, Filmmaker, Photographer, and Tech Geek in Rhode Island. 
